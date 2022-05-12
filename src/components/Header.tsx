@@ -15,18 +15,18 @@ export default function Header() {
       <img src={LogoHeader} alt="arturholiv-logo" className="logo-header"/>
 
       <nav>
-      <a href="#home" className={ dark ? 'dark link' : 'menu link'} >
-        Home
-      </a>
-      <a href="#sobre" className={ dark ? 'dark link' : 'menu link'}>
-        Sobre mim
-      </a>
-      <a href="#projetos" className={ dark ? 'dark link' : 'menu link'}>
-        Meus projetos
-      </a>
-      <a href="#contato" className={ dark ? 'dark link' : 'menu link'}>
-        Contato
-      </a>
+        <a href="#home" className={ dark ? 'dark link' : 'menu link'} >
+          Home
+        </a>
+        <a href="#sobre" className={ dark ? 'dark link' : 'menu link'}>
+          Sobre mim
+        </a>
+        <a href="#projetos" className={ dark ? 'dark link' : 'menu link'}>
+          Meus projetos
+        </a>
+        <a href="#contato" className={ dark ? 'dark link' : 'menu link'}>
+          Contato
+        </a>
       </nav>
       <Button >
         <a href={Resume} download className='button'>Download CV</a>
