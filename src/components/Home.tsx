@@ -7,7 +7,7 @@ export default function Home() {
 
   return (
     <section className="home" id="home">
-      <article>
+      <article className="article">
         <h3>
           Olá 👋, eu sou
         </h3>
@@ -21,7 +21,7 @@ export default function Home() {
         <div className="location">
           <ImLocation className='icon'/>
           <h3>
-            Contagem - MG
+            Contagem, MG
           </h3>
         </div>
 
