@@ -1,0 +1,50 @@
+.home {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2em 2em 2em;
+  margin: 5vh;
+  border: 1px outset rgba(194, 194, 194, 0.55);
+  border-radius: 27px;
+  font-family: 'Raleway';
+  /* width: 60%; */
+}
+
+.myPicture {
+  width: 50vh;
+  margin: 5vh 2vh 0;
+  border-radius: 27px;
+}
+
+.icon {
+  font-size: 3em;
+  margin: 1vh 3vh 0 0;
+}
+
+.location {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 60%;
+  margin: 0 0 2vh 0;
+}
+
+.icons-gh-li {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* justify-content: space-between; */
+}
+
+.social-button {
+  background-repeat:no-repeat;
+  cursor:pointer;
+  overflow: hidden;
+  border-radius: 1vh;
+}
+
+.link {
+  text-decoration: none;
+}
