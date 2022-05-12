@@ -1,0 +1,50 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.link {
+   color: #616d72;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: color .2s ease-out;
+}
+
+.link:hover {
+    text-shadow: 4px 4px 2px rgba(94,24,235,0.6);
+    text-decoration: underline 0.15em;
+    text-decoration-color: rgba(94,24,235,0.6);
+}
+
+.menu {
+  text-decoration: none;
+  color: black;
+  padding: 0 2em;
+}
+
+.dark {
+  text-decoration: none;
+  color: rgb(168, 168, 168);
+  padding: 0 2em;
+}
+
+.logo-header {
+  width: 15em;
+}
+
+.button {
+  text-decoration: none;
+  color: white;
+}
+
+Button {
+
+}
+
+Button:hover {
+  box-shadow: 3px 3px 5px 0px rgba(93,22,235,0.75);
+-webkit-box-shadow: 3px 3px 5px 0px rgba(93,22,235,0.75);
+-moz-box-shadow: 3px 3px 5px 0px rgba(93,22,235,0.75);
+}
