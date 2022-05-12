@@ -8,9 +8,9 @@ export default function Home() {
   return (
     <section className="home" id="home">
       <article className="article">
-        <h3>
+        <h2>
           Olá 👋, eu sou
-        </h3>
+        </h2>
         <h1>
           Artur Henrique de Oliveira
         </h1>
