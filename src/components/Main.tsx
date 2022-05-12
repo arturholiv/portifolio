@@ -1,12 +1,13 @@
 import  Header from './Header';
-import  About from './About';
+import  Home from './Home';
+import '../styles/Main.css';
 
 export default function Main() {
 
   return (
-    <div>
+    <div className="main">
      <Header />
-     <About />
+     <Home />
     </div>
   );
 }
