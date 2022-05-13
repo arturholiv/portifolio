@@ -1,0 +1,38 @@
+.about {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 45%;
+  font-family: 'Raleway';
+  font-size: 21px;
+  font-weight: bold;
+}
+
+.developerLogo {
+  width: 50vh;
+  /* margin: 5vh 2vh 0; */
+}
+
+.aside {
+  width: 50vh;
+}
+
+.aside h2 {
+  font-weight: bold;
+  text-decoration: underline 0.15em;
+  text-decoration-color: hsla(260, 76%, 68%, 0.986);
+}
+
+a {
+  color:hsla(260, 76%, 68%, 0.986);
+  text-decoration: none;
+}
+
+a:hover {
+  color:hsla(260, 100%, 92%, 0.986);
+}
+
+a:active {
+  color: hsla(260, 97%, 49%, 0.986);
+}

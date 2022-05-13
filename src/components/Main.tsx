@@ -1,5 +1,6 @@
 import  Header from './Header';
 import  Home from './Home';
+import About from './About';
 import '../styles/Main.css';
 
 export default function Main() {
@@ -8,6 +9,9 @@ export default function Main() {
     <div className="main">
      <Header />
      <Home />
+     <hr />
+     <About />
+     <hr />
     </div>
   );
 }

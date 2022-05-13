@@ -1,4 +1,3 @@
-import developerLogo from './../assets/undraw_developer.svg';
 import '../styles/Home.css';
 import myPicture from './../assets/my-picture.png';
 import { ImLocation } from 'react-icons/im';
