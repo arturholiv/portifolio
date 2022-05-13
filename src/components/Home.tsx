@@ -5,8 +5,8 @@ import { BsGithub, BsLinkedin } from 'react-icons/bs';
 export default function Home() {
 
   return (
-    <section className="home" id="home">
-      <article className="article">
+    <article className="home" id="home">
+      <section className="article">
         <h2>
           Olá 👋, eu sou
         </h2>
@@ -36,8 +36,8 @@ export default function Home() {
           
         </div>
 
-      </article>
+      </section>
       <img src={myPicture} alt="myPicture" className="myPicture" />
-    </section>
+    </article>
   );
 }
