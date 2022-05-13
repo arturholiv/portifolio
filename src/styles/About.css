@@ -30,10 +30,10 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+.aside a:hover {
   color:hsla(260, 100%, 92%, 0.986);
 }
 
-a:active {
+.aside a:active {
   color: hsla(260, 97%, 49%, 0.986);
 }
