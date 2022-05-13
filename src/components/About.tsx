@@ -4,7 +4,7 @@ import developerLogo from './../assets/undraw_developer.svg';
 export default function About() {
 
   return (
-    <section className="about">
+    <section className="about" id="about">
       <img src={developerLogo} alt="developerLogo" className="developerLogo" />
 
       <aside className="aside">

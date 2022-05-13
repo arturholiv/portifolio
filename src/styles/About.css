@@ -3,7 +3,7 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  width: 45%;
+  width: 75%;
   font-family: 'Raleway';
   font-size: 21px;
   font-weight: bold;
@@ -11,6 +11,7 @@
 
 .developerLogo {
   width: 50vh;
+  margin-right: 10vh;
   /* margin: 5vh 2vh 0; */
 }
 
