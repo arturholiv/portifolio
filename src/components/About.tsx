@@ -12,13 +12,13 @@ export default function About() {
           Sobre mim:
         </h2>
        <p>
-       Me chamo Artur Henrique de Oliveira e tenho 21 anos. Sou estudante de programação na
+       Me chamo Artur Henrique de Oliveira e tenho 21 anos. Sou estudante de desenvolvimento web fullstack na
         <a href="https://www.betrybe.com/" target="_blank" className="link-trybe" rel="noreferrer"> Trybe</a> e
         também de Análise e desenvolvimento de sistemas na Estácio de Sá.
          <br />
          <br />
         Sou apaixonado por tecnologia e por ideias inovadoras o que me leva a ir em busca das melhores 
-        soluções e a me aprofundar nas melhores tecnologias.
+        soluções e a me aprofundar nas melhores soluções.
         <br />
         <br />
         Hoje o que mais me motiva na programação é a possibilidade de impactar positivamente
