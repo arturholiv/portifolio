@@ -12,9 +12,7 @@
   width: 100vw;
   z-index: 1000;
   background-color: #21212150;
-  
   backdrop-filter: blur(6px);
-
 }
 
 .link {

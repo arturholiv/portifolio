@@ -29,7 +29,7 @@ export default function Header() {
         <a href="#projects" className={ dark ? 'dark link' : 'menu link'}>
           Meus projetos
         </a>
-        <a href="#contato" className={ dark ? 'dark link' : 'menu link'}>
+        <a href="#contact" className={ dark ? 'dark link' : 'menu link'}>
           Contato
         </a>
       </nav>
