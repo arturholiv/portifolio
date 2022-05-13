@@ -6,6 +6,15 @@
   font-family: 'Raleway';
   font-weight: bold;
   width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  z-index: 1000;
+  background-color: #21212150;
+  
+  backdrop-filter: blur(6px);
+
 }
 
 .link {
