@@ -21,6 +21,11 @@ export default function Header() {
         <a href="#sobre" className={ dark ? 'dark link' : 'menu link'}>
           Sobre mim
         </a>
+
+        <a href="#habilidades" className={ dark ? 'dark link' : 'menu link'}>
+          Minhas habilidades
+        </a>
+
         <a href="#projetos" className={ dark ? 'dark link' : 'menu link'}>
           Meus projetos
         </a>
