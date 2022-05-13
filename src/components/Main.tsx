@@ -2,6 +2,7 @@ import  Header from './Header';
 import  Home from './Home';
 import About from './About';
 import Skills from './Skills';
+import Projects from './Projects';
 import '../styles/Main.css';
 
 export default function Main() {
@@ -14,6 +15,8 @@ export default function Main() {
      <About />
      <hr />
      <Skills />
+     <hr />
+     <Projects />
     </div>
   );
 }
