@@ -7,7 +7,7 @@ export default function Contact() {
     <section className="contact" id="contact">
      <h2>Entre em contato comigo</h2>
      <h4>
-     Se você viu o meu potencial ou quer conversar comigo, não exite em me mandar uma mensagem.
+     Se você viu o meu potencial ou quer conversar comigo, não hesite em me mandar uma mensagem.
     </h4>
     <div className="phone">
      <BsFillTelephoneFill className="icon-cont"/>
