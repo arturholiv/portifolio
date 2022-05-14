@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portifolio/static/css/main.beeb2711.css",
+    "main.js": "/portifolio/static/js/main.d7b5ec05.js",
+    "static/media/my-picture.png": "/portifolio/static/media/my-picture.b629cc19bd90979b3451.png",
+    "static/media/LogoHeader.svg": "/portifolio/static/media/LogoHeader.4941965bd1af9cd07da86b69e2f7f6be.svg",
+    "static/media/starwarsplanets.png": "/portifolio/static/media/starwarsplanets.8e7df9d709fa8b62a1b3.png",
+    "static/media/spotitrybeprint.png": "/portifolio/static/media/spotitrybeprint.d0a895150c9c28b32b0d.png",
+    "static/media/resume.pdf": "/portifolio/static/media/resume.aec3974994af0ac42077.pdf",
+    "static/media/trybewalletprint.png": "/portifolio/static/media/trybewalletprint.df0e8663acd91e79383a.png",
+    "static/media/undraw_developer.svg": "/portifolio/static/media/undraw_developer.d9e2df2942d3e22c2f9a9a03ef4af093.svg",
+    "index.html": "/portifolio/index.html",
+    "main.beeb2711.css.map": "/portifolio/static/css/main.beeb2711.css.map",
+    "main.d7b5ec05.js.map": "/portifolio/static/js/main.d7b5ec05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beeb2711.css",
+    "static/js/main.d7b5ec05.js"
+  ]
+}
