@@ -5,7 +5,7 @@ import { Sun, MoonStars } from 'tabler-icons-react';
 import LogoHeader from './../assets/LogoHeader.svg';
 import '../styles/Header.css';
 
-import Resume from './../assets/resume.pdf';
+import Resume from '../assets/resume.pdf';
 
 export default function Header() {
   const { colorScheme, toggleColorScheme } = useMantineColorScheme();
