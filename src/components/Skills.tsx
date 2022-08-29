@@ -1,7 +1,7 @@
 import '../styles/Skills.css';
 import { FaCss3Alt, FaHtml5, FaReact, FaDocker, FaNodeJs } from 'react-icons/fa'
 import { IoLogoJavascript } from 'react-icons/io'
-import { SiRedux, SiJest, SiMysql, SiTypescript, SiChai, SiTestinglibrary, SiMocha } from 'react-icons/si'
+import { SiRedux, SiJest, SiMysql, SiTypescript, SiChai, SiTestinglibrary, SiMocha, SiCsharp, SiPython } from 'react-icons/si'
 
 export default function Skills() {
 
@@ -16,6 +16,8 @@ export default function Skills() {
             <div className="skills">
               <button className="skill-btn"> <IoLogoJavascript className="skill-icon"/> JavaScript </button>
               <button className="skill-btn"> <SiTypescript className="skill-icon"/> Typescript </button>
+              <button className="skill-btn"> <SiCsharp className="skill-icon"/> C# </button>
+              <button className="skill-btn"> <SiPython className="skill-icon"/> Python </button>
             </div>
           </section>
           
