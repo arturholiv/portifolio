@@ -23,7 +23,7 @@ export default function About() {
         <br />
         Hoje o que mais me motiva na programação é a possibilidade de impactar positivamente
         na vida das pessoas e, por conta disso, sempre procuro me envolver em projetos que
-        me desafiem e que estejam alinhados com meu propósito.
+        me desafiem, sejam voltados para a inovação e que estejam alinhados com meu propósito.
         <br />
         <br />
         Você pode ver minha tragetória no curso da Trybe pelo README 
