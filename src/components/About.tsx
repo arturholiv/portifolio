@@ -18,7 +18,7 @@ export default function About() {
          <br />
          <br />
         Sou apaixonado por tecnologia e por ideias inovadoras o que me leva a ir em busca das melhores 
-        soluções e a me aprofundar nas melhores soluções.
+        soluções.
         <br />
         <br />
         Hoje o que mais me motiva na programação é a possibilidade de impactar positivamente
