@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portifolio/static/css/main.c625862d.css",
-    "main.js": "/portifolio/static/js/main.e5543c78.js",
+    "main.css": "/portifolio/static/css/main.c1db79d2.css",
+    "main.js": "/portifolio/static/js/main.0d39b3f1.js",
     "static/media/my-picture.png": "/portifolio/static/media/my-picture.b629cc19bd90979b3451.png",
     "static/media/LogoHeader.svg": "/portifolio/static/media/LogoHeader.4941965bd1af9cd07da86b69e2f7f6be.svg",
     "static/media/starwarsplanets.png": "/portifolio/static/media/starwarsplanets.8e7df9d709fa8b62a1b3.png",
@@ -10,11 +10,11 @@
     "static/media/resume.pdf": "/portifolio/static/media/resume.ad8e8731d2e32f2f5c44.pdf",
     "static/media/undraw_developer.svg": "/portifolio/static/media/undraw_developer.d9e2df2942d3e22c2f9a9a03ef4af093.svg",
     "index.html": "/portifolio/index.html",
-    "main.c625862d.css.map": "/portifolio/static/css/main.c625862d.css.map",
-    "main.e5543c78.js.map": "/portifolio/static/js/main.e5543c78.js.map"
+    "main.c1db79d2.css.map": "/portifolio/static/css/main.c1db79d2.css.map",
+    "main.0d39b3f1.js.map": "/portifolio/static/js/main.0d39b3f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.c625862d.css",
-    "static/js/main.e5543c78.js"
+    "static/css/main.c1db79d2.css",
+    "static/js/main.0d39b3f1.js"
   ]
 }
